@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840204130618",
+    "firebase_url": "https://auto-waiter-7c942.firebaseio.com",
+    "project_id": "auto-waiter-7c942",
+    "storage_bucket": "auto-waiter-7c942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840204130618:android:defefb78e9d3aeca4b5803",
+        "android_client_info": {
+          "package_name": "com.example.autowaiter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840204130618-eta70u137g76a3ulc1e84bpp525upl1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autowaiter",
+            "certificate_hash": "7e151b2ab00dfe74cdc8c541f2e9784651ba1140"
+          }
+        },
+        {
+          "client_id": "840204130618-9jjt1ofvng24gegua4q60lcf2ogeaeef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGE-FxQ84rH-N8c8lVZjHptkHgQTP8iC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840204130618-9jjt1ofvng24gegua4q60lcf2ogeaeef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

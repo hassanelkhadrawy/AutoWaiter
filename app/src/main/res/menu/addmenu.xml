@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/add"
+        android:title="Admin"
+        android:icon="@drawable/ic_add_circle_outline_black_24dp"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/orderslist"
+        android:title="Orders"
+        android:icon="@drawable/ic_add_circle_outline_black_24dp"
+
+        />
+
+    <item android:id="@+id/add_admin"
+        android:title="Add Admin"
+        />
+
+
+</menu>
